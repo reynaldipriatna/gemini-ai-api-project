@@ -44,8 +44,8 @@ Follow these steps to get your project up and running:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/gemini-api-project.git
-cd gemini-api-project
+git clone https://github.com/your-username/gemini-ai-api-project.git
+cd gemini-ai-api-project
 ```
 
 ### 2. Install dependencies
